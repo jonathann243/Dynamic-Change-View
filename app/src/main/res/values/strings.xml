@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FRS</string>
+    <string name="welcome_msg">Bienvenue Chez FRS community</string>
+    <string name="demarrer">demarrer</string>
+    <string name="nbre_clic">Nombre Clic : 0</string>
+    <string name="imgDescription">une Image</string>
+</resources>
